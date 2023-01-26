@@ -1,0 +1,2 @@
+# nextjsprojectwithapiifullcode
+nextjsprojectwithapiifullcode
